@@ -1,3 +1,3 @@
 # us-cannabis-sales
 
-Cannabis sales tracked by MJBiz.
+Cannabis sales tracked by MJBizDaily.
